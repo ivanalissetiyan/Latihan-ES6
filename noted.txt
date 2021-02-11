@@ -1,0 +1,12 @@
+Sebelum Mempelajari Library Javascript seperti Vue js dan React Js, alangkah bagusnya kita mempelajari dasar Javascript nya terlebih dahulu
+seperti ECMAScript 6 agar lebih paham nantinya, Disini kita akan membahas tentang
+1. Setting Workplace
+2. Var dan Cost
+3. let
+4. String Congcat
+5. Object Literal
+6. Array ForEach
+7. Map Filter
+8. Classes
+9. Inheritance
+Silakan Dapat dipelajari segala sesuatu fungsi script sudah saya berikan komentar, selebihnya anda dapat berexplore dengan sendirinya.
